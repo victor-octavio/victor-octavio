@@ -10,8 +10,9 @@ onde busco promover soluções com tecnologias back-end para a saúde.
 </div>
 
 ### Tecnologias que possuo conhecimento:
-
+___________
 <div>
+  <div>
   <img allign = center height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img allign=center height=60 width=60  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img allign=center height=50 width=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>               
@@ -21,12 +22,12 @@ onde busco promover soluções com tecnologias back-end para a saúde.
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img allign=center height = 70 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
-          
+    
+  </div>     
 </div>
 
 ### Tecnologias que estou estudando:
-
+____________
 <div>  
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
