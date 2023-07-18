@@ -36,7 +36,7 @@ ____________
         
 </div>
 
-   ![Snake animation](https://github.com/victor-octavio/victor-octavio/blob/output/github-contribution-grid-snake.svg)   
+ ![snake gif](https://github.com/victor-octavio/victor-octavio/blob/output/github-contribution-grid-snake.gif)  
 
 
 <a href="https://www.linkedin.com/in/victor-oct%C3%A1vio-rodrigues-alves-1392a6247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
