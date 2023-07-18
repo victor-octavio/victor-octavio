@@ -34,7 +34,7 @@ ____________
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
           
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)       
+  ![Snake animation](https://github.com/victor-octavio/victor-octavio/blob/output/github-contribution-grid-snake.svg)       
         
 </div>
 
