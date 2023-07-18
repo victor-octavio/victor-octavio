@@ -32,11 +32,11 @@ ____________
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-          
-  ![Snake animation](https://github.com/victor-octavio/victor-octavio/blob/output/github-contribution-grid-snake.svg)       
+  <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />    
         
 </div>
+
+   ![Snake animation](https://github.com/victor-octavio/victor-octavio/blob/output/github-contribution-grid-snake.svg)   
 
 
 <a href="https://www.linkedin.com/in/victor-oct%C3%A1vio-rodrigues-alves-1392a6247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
