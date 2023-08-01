@@ -21,7 +21,7 @@ ___________
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img allign=center height = 70 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
     
   </div>     
 </div>
