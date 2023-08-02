@@ -3,7 +3,7 @@ Atualmente estudo Informática Biomédica na Universidade Federal de Ciências d
 onde busco promover soluções com tecnologias back-end para a saúde.
 
 <div>
-  <a href = "https://github.com/victor-octavio">
+  <a href = "https://www.linkedin.com/in/victor-oct%C3%A1vio-rodrigues-alves-1392a6247/">
   <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=victor-octavio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-octavio&theme=dracula&include_all_commits=true&count_private=true"/>
   
