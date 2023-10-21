@@ -29,7 +29,7 @@ ___________
 ### Tecnologias que estou estudando:
 ____________
 <div>  
-  <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
   <img allign =center height = 60 width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img allign=center height = 60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />    
