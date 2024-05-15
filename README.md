@@ -11,7 +11,7 @@ onde busco promover soluções com tecnologias back-end para a saúde.
 
 ### Tecnologias que possuo conhecimento:
 ___________
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,swift,mysql,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb,docker,postman)](https://skillicons.dev)
 
  <!--
  <div>
