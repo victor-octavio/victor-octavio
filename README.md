@@ -1,6 +1,6 @@
 ### Olá, me chamo Victor Octávio 👋 
 Atualmente estudo Informática Biomédica na Universidade Federal de Ciências da Saúde de Porto Alegre
-onde busco promover soluções com tecnologias back-end para a saúde.
+possuo experiência trabalhando especialmente com back-end e tecnologias relacionadas a server-side.
 
 <div>
   <!--<a href = "https://www.linkedin.com/in/victor-oct%C3%A1vio-rodrigues-alves-1392a6247/">
